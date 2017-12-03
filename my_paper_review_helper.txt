@@ -1,0 +1,13 @@
+Greetings Group III,
+
+  I am writing a summary that you may find helpful in writing a review of my paper.  
+
+   The author provided an ethical-theory and professional standard's analysis of the issue of exclusive, alternative data use by hedge funds.
+
+  The ethical-theory used was utilitarian analysis.  The conclusion here pointed to the fact of the exclusive licensing of the alternative data as being harmful. When extrapolating back to the existing governance system though, this seemingly strong ethical position against the use of exclusive alternative data fell flat under current SEC protections and economic practices.
+ 
+  The ethical-theory section also included a clear failure of the strong vs. weak test.  In walking the claim forward, the current language of SEC Rule 501 of Regulation D and the thresholds for significant, non-public information weakened that claim as well.
+
+  The professional standards analysis section used the Chartered Financial Analyst's, Codes and Standards and Ethics rules and the Financial Risk Manager's Ethical Standards to evaluate this use in context.  The Chartered Financial Analyst analysis concluded with the activity being covered and perhaps encouraged.  The Financial Risk Manager analysis had weaker, but positive, support that highlighted alternative data use as a beneficial risk reduction effort.
+
+  The author concluded that while failing several ethical thresholds, the use of deep-learning on exclusive, alternative data was found to be covered by the professional standard analysis section.  Although this perhaps highlights a need for regulatory language updates, given the current point within the political and technology adoption cycles, the use of alternative data is likely only just starting and is unlikely to be restricted anytime soon. 
